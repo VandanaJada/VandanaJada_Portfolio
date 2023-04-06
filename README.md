@@ -1,8 +1,8 @@
 # VandanaJada_Portfolio
 
-# Avengers Cast Role Classification Project
+# Avengers Cast Role Classification Project - https://github.com/VandanaJada/Avengers-Classification
 
-![image](https://user-images.githubusercontent.com/85215744/230255670-f7b76b39-2ee8-47ef-bb62-c9441446e98a.png)
+![image](https://user-images.githubusercontent.com/85215744/230255670-f7b76b39-2ee8-47ef-bb62-c9441446e98a.png)  
 
 This project aims to classify famous Avengers cast members into their respective roles, focusing on five characters: Black Widow, Captain America, Iron Man, Hulk, and Thor. The project has been structured into three main components: a user interface, a server, and a data preparation folder containing the Python notebooks used for dataset cleaning and model building.
 
