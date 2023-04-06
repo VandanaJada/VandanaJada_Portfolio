@@ -1,6 +1,6 @@
 # VandanaJada_Portfolio
 
-# Avengers Cast Role Classification Project - https://github.com/VandanaJada/Avengers-Classification
+# [Avengers Cast Role Classification Project] - (https://github.com/VandanaJada/Avengers-Classification)
 
 ![image](https://user-images.githubusercontent.com/85215744/230255670-f7b76b39-2ee8-47ef-bb62-c9441446e98a.png)  
 
@@ -23,7 +23,7 @@ This project aims to classify famous Avengers cast members into their respective
 
 By classifying Avengers cast members into their roles, this project can help fans and movie producers understand how each actor embodies their character's traits and behavior, and potentially inform future casting decisions.
 
-# Machine Learning Churn Prediction: Identifying Customer Churn in a Telecommunications Company - https://github.com/VandanaJada/MachineLearning_ChurnPrediction
+# [Machine Learning Churn Prediction: Identifying Customer Churn in a Telecommunications Company] - (https://github.com/VandanaJada/MachineLearning_ChurnPrediction)
 
 In this repository, we have performed an end-to-end Exploratory Data Analysis (EDA) to identify characteristics of customers that are more likely to churn in a telecommunications company. We have used these insights to create a machine learning model, and finally, deployed the model.
 
